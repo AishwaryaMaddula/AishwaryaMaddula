@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Aishwarya and thank you for visiting my github repository!
+Hope you have a nice day!
+
 <!--
 **AishwaryaMaddula/AishwaryaMaddula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
