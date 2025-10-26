@@ -1,7 +1,5 @@
 ## 🙋🏻‍♀️ About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here_to_Data_Dive_into_my_work-blue?style=flat-square)](https://aishwaryamaddula.github.io/AishwaryaMaddula/)
-
 Hello, I'm **Aishwarya Maddula**, a Data Science graduate student at **The George Washington University (MS in Data Science, expected Dec 2025)**.  
 I’m passionate about turning data into insight through analytics, machine learning, and automation.  
 
@@ -9,6 +7,9 @@ I’m passionate about turning data into insight through analytics, machine lear
 - Building predictive models and performing feature engineering  
 - Creating dashboards and visual analytics using Tableau and Power BI  
 - Working with data warehouses, SQL, and cloud tools (AWS, Neo4j)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=1D72B8&width=435&lines=Want+to+know+more+about+my+work?;View+my+portfolio👇)](https://github.com/AishwaryaMaddula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here_to_Data_Dive_into_my_work-blue?style=flat-square)](https://aishwaryamaddula.github.io/AishwaryaMaddula/)
 
 ---
 
