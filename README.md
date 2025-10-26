@@ -2,6 +2,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here_to_Data_Dive_into_my_work-blue?style=flat-square)](https://aishwaryamaddula.github.io/AishwaryaMaddula/)
 
+---
+
 Hello, I'm **Aishwarya Maddula**, a Data Science graduate student at **The George Washington University (MS in Data Science, expected Dec 2025)**.  
 I’m passionate about turning data into insight through analytics, machine learning, and automation.  
 
@@ -40,6 +42,7 @@ Welcome to my portfolio, where I showcase my work in data analytics, machine lea
 - [![Email](https://img.shields.io/badge/Email-aish.maddula@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aish.maddula@gmail.com)
 - [![Slack](https://img.shields.io/badge/Slack-Aishwarya_Maddula-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com)
 
+---
 
 ### 📊 GitHub Stats
 
