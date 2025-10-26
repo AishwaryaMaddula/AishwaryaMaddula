@@ -1,6 +1,7 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
 ![Aishwarya Maddula Data Portfolio Banner](https://github.com/AishwaryaMaddula/AishwaryaMaddula/blob/main/images/banner.png?raw=true)
+
 Hello, I'm **Aishwarya Maddula**, a Data Science graduate student at **The George Washington University (MS in Data Science, expected Dec 2025)**.  
 I’m passionate about turning data into insight through analytics, machine learning, and automation.  
 
@@ -37,3 +38,7 @@ Welcome to my portfolio, where I showcase my work in data analytics, machine lea
 - [LinkedIn](https://www.linkedin.com/in/aishwarya-maddula/)  
 - [GitHub](https://github.com/AishwaryaMaddula)  
 - [Email](mailto:aish.maddula@gmail.com)
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMaddula&theme=default&layout=compact)
