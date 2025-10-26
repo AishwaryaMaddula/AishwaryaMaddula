@@ -1,19 +1,41 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introducing Myself
 
-I am Aishwarya and thank you for visiting my github repository!
-Hope you have a nice day!
+![Aishwarya Maddula Data Portfolio Banner](https://github.com/AishwaryaMaddula/AishwaryaMaddula.github.io/blob/main/banner.png?raw=true)
 
-<!--
-**AishwaryaMaddula/AishwaryaMaddula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I'm **Aishwarya Maddula**, a Data Science graduate student at **The George Washington University (MS in Data Science, expected Dec 2025)**.  
+I’m passionate about turning data into insight through analytics, machine learning, and automation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designing and automating data pipelines using Python and APIs  
+- Building predictive models and performing feature engineering  
+- Creating dashboards and visual analytics using Tableau and Power BI  
+- Working with data warehouses, SQL, and cloud tools (AWS, Neo4j)
+
+---
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my work in data analytics, machine learning, and automation:
+
+- [RAG Implementation for Semi-Automated Accreditation](https://github.com/AishwaryaMaddula) — TypeScript · AWS · Neo4j · LLMs  
+- [End-to-End Machine Learning Pipeline](https://github.com/AishwaryaMaddula) — Python · scikit-learn · XGBoost  
+- [Chicago Crime Data Analytics](https://github.com/AishwaryaMaddula) — Python · Tableau · GeoSpatial  
+- [Predictive Modeling & Feature Engineering](https://github.com/AishwaryaMaddula) — Pandas · NumPy · Matplotlib  
+
+---
+
+### 🛠️ Tools
+
+- **Languages:** Python, R, SQL, C, JSON, YAML  
+- **Frameworks:** scikit-learn, TensorFlow, Keras, XGBoost, LightGBM  
+- **Visualization:** Tableau, Power BI, Matplotlib, ggplot2  
+- **Database / Cloud:** MongoDB, Neo4j, AWS, PostgreSQL  
+- **Other:** Excel, ServiceNow, Jira, Dynatrace, Kubernetes  
+
+---
+
+### 👋🏻 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aishwarya-maddula/)  
+- [GitHub](https://github.com/AishwaryaMaddula)  
+- [Email](mailto:aish.maddula@gmail.com)
