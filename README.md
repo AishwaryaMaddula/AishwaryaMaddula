@@ -35,9 +35,11 @@ Welcome to my portfolio, where I showcase my work in data analytics, machine lea
 
 ### 👋🏻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aishwarya-maddula/)  
-- [GitHub](https://github.com/AishwaryaMaddula)  
-- [Email](mailto:aish.maddula@gmail.com)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishwarya_Maddula-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aishwarya-maddula/)
+- [![Email](https://img.shields.io/badge/Email-aish.maddula@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aish.maddula@gmail.com)
+- [![Slack](https://img.shields.io/badge/Slack-Aishwarya_Maddula-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com)
+
 
 ### 📊 GitHub Stats
 
