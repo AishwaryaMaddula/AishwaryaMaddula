@@ -14,7 +14,7 @@ I’m passionate about turning data into insight through analytics, machine lear
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my work in data analytics, machine learning, and automation:
+Here are a few projects where I explored data analytics, machine learning, and automation:
 
 - [RAG Implementation for Semi-Automated Accreditation](https://github.com/AishwaryaMaddula) — TypeScript · AWS · Neo4j · LLMs  
 - [End-to-End Machine Learning Pipeline](https://github.com/AishwaryaMaddula) — Python · scikit-learn · XGBoost  
