@@ -30,16 +30,19 @@ I’m passionate about turning data into insight through analytics, machine lear
 | 💻 **Dev Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
 ---
+
 ### 👋🏻 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishwarya_Maddula-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aishwarya-maddula/)
 - [![Email](https://img.shields.io/badge/Email-aish.maddula@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:aish.maddula@gmail.com)
 - [![Slack](https://img.shields.io/badge/Slack-Aishwarya_Maddula-4A154B?style=flat&logo=slack&logoColor=white)](https://slack.com)
 - [![Google Developer](https://img.shields.io/badge/Google_Developer-Aishwarya_Maddula-orange?style=flat&logo=google&logoColor=white)](https://g.dev/AishwaryaMaddula)
+
 ---
 
 ### 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=AishwaryaMaddula&color=blue&label=★)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMaddula&theme=default&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=AishwaryaMaddula&color=blue&label=★)
