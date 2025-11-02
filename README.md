@@ -9,7 +9,7 @@ I’m passionate about turning data into insight through analytics, machine lear
 - Working with data warehouses, SQL, and cloud tools (AWS, Neo4j)
 - Exploring generative AI for intelligent automation, building agentic workflows, and integrating LLMs with real-world data
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=1D72B8&width=435&lines=Want+to+know+more+about+my+work?;View+my+portfolio👇)](https://github.com/AishwaryaMaddula)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=1D72B8&width=435&lines=Want+to+know+more+about+my+work?;View+my+portfolio👇)](https://github.com/AishwaryaMaddula)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click_Here_to_Data_Dive_into_my_work-blue?style=flat-square)](https://aishwaryamaddula.github.io/AishwaryaMaddula/)
 
 ---
