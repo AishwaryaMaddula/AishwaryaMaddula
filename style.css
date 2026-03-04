@@ -13,6 +13,7 @@
   --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --sans: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
 }
+
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6}
 a{color:var(--accent);text-decoration:none}
@@ -43,6 +44,7 @@ footer{border-top:1px solid var(--border);padding:24px;color:var(--muted);backgr
 .cta{display:inline-block;border:1px solid var(--accent);padding:10px 14px;border-radius:10px;font-weight:700}
 .cta:hover{background:#eef2ff;text-decoration:none}
 hr.sep{border:none;border-top:1px dashed var(--border);margin:24px 0}
+
 /* Projects page */
 .cards{display:grid;grid-template-columns: repeat(auto-fill,minmax(280px,1fr)); gap:18px}
 .card a.stretch{position:absolute;inset:0}
@@ -51,8 +53,72 @@ hr.sep{border:none;border-top:1px dashed var(--border);margin:24px 0}
 .card .stack .chip{background:#eef2ff;color:#1e40af;border:1px solid #c7d2fe}
 .card .topline{display:flex;align-items:baseline;gap:8px;justify-content:space-between}
 blockquote{border-left:3px solid var(--border);padding-left:12px;margin:12px 0;color:var(--muted)}
+
 /* Responsive */
 @media (min-width:720px){
   .card.span-6{grid-column:span 6}
   .card.span-4{grid-column:span 4}
+}
+
+/* Auto-slide */
+.hero-carousel {
+  width: 100%;
+  height: 550px;
+  overflow: hidden;
+  position: relative;
+}
+.carousel {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease;
+}
+.slide.active {
+  opacity: 1;
+}
+
+/* arrows */
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30px;
+  background: none;
+  color: slategrey;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-shadow: 0px 2px 8px rgba(0,0,0,0.6);
+}
+.arrow.left {
+  left: 20px;
+}
+.arrow.right {
+  right: 20px;
+}
+
+/* bottom indicators */
+.indicators {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+.dot {
+  height: 4px;
+  width: 35px;
+  margin: 5px;
+  background: rgba(255,255,255,0.5);
+  display: inline-block;
+  cursor: pointer;
+}
+.dot.active {
+  background: white;
 }
