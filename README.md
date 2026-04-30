@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ About Me
 
-Hello, I'm **Aishwarya Maddula**, a Data Science graduate student at **The George Washington University**.  
+Hello, I'm **Aishwarya Maddula**, an AI/ML engineer.  
 I’m passionate about turning data into insight through analytics, machine learning, and automation.  
 
 - Designing and automating data pipelines using Python and APIs  
